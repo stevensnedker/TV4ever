@@ -1,6 +1,6 @@
 ## Welcome to TV4ever
 
-An app that'll record tv off of a lot of web tv stations worldwide. Just download it and run it.
+An app that'll record tv off of a lot of web tv stations worldwide. Just download it and run it. ![image](https://lh3.googleusercontent.com/W9tbaEIQ3Uy9ZMWeDTIrvjdeJepPE_S3v7LLwHfYwtxXUyCg-eNSXhcr2Td64a6A0Zqw-Y-ywQ=w640-h400-e365)
 
 ### Download
 [Download TV4ever](http://tv4ever.dk) kræver Chrome browser. Afspilningen af optagelserne kræver [VLC eller SMplayer](http://oqipo.dk/faa-vlc-til-at-afspille-undertekster-korrekt-altid)
