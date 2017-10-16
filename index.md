@@ -2,34 +2,27 @@
 
 An app that'll record tv off of a lot of web tv stations worldwide. Just download it and run it.
 
-### Markdown
+### Download
+[Download TV4ever](http://tv4ever.dk) kræver Chrome browser. Afspilningen af optagelserne kræver [VLC eller SMplayer](http://oqipo.dk/faa-vlc-til-at-afspille-undertekster-korrekt-altid)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Om
+TV4ever er en Chrome-app som giver dig mulighed for at optage tv-programmer og andet indhold fra understøttede websites som du så kan se forskudt. Til at begynde med gælder det programmer fra
 
-```markdown
-Syntax highlighted code block
+- DR.DK/TV
+- Viafree
+- SVT PLAY
+- NRK TV
 
-# Header 1
-## Header 2
-### Header 3
+og deres respektive børnekanaler
 
-- Bulleted
-- List
+På DR.DK også live-udsendelser, Bonanza, samt videoer indlejret i nyheder.
 
-1. Numbered
-2. List
+Programmerne optages i .TS format og kan afspilles med de fleste medieafspillere. Det er også muligt at hente undertekster til programmerne i SRT format, og for DR.DK/TV kan du optage programversioner med oplæste undertekster.
 
-**Bold** and _Italic_ and `Code` text
+Hvis man hellere vil optage programmerne med egne værktøjer, kan TV4ever hjælpe med at generere de rigtige kommandolinjer.
 
-[Link](url) and ![Image](src)
-```
+Husk at alt indhold er ophavsretbeskyttet af rettighedshaveren (fx DR, SVT og NRK), så det er kun til personligt brug og må under ingen omstændigheder videregives.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Hele ideen med denne app er at gøre det muligt at se tv-programmerne offline i god kvalitet når det passer bedst, og ikke nødvendigvis når man har adgang til en hurtig internetforbindelse.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stevensnedker/TV4ever/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Læse mere på http://oqipo.dk/tv4ever
